@@ -4,9 +4,9 @@ POST http://localhost:3000/auth/signup
 Content-Type: application/json
 
 {
-    "email": "yassine@hotmail.com",
+    "email": "adam@gmail.com",
     "password": "123",
-    "name": "Yassine",
+    "name": "Adam",
     "admin": false
 }
 
@@ -45,9 +45,9 @@ POST http://localhost:3000/auth/signin
 Content-Type: application/json
 
 {
-    "email": "yassine@hotmail.com",
+    "email": "adam@gmail.com",
     "password": "123",
-    "name": "Yassine",
+    "name": "Adam",
     "admin": false
 }
 
